@@ -1,2 +1,3 @@
 # cheese
-Random things of my choosing go in here!
+
+Playing around with GitHub.  I'm editing this file!
